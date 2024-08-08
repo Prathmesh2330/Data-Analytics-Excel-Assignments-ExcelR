@@ -1,0 +1,1 @@
+This repository contains a series of advanced Excel exercises designed to enhance your data analysis and reporting skills. The assignment covers key Excel functionalities such as pivot tables, data cleaning, advanced formulas, data visualization. Ideal for anyone looking to deepen their proficiency in Excel and apply these skills in real-world scenarios.
